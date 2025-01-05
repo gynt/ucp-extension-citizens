@@ -1,0 +1,10 @@
+name: citizens
+version: 1.0.0
+author: gynt
+type: module
+display-name: Citizens
+dependencies:
+  framework: ">= 3.0.5"
+  frontend: ">= 1.0.10"
+meta:
+  version: 1.0.0

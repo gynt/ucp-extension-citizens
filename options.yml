@@ -1,0 +1,41 @@
+meta:
+  version: 1.0.0
+options:
+  - display: GroupBox
+    header: Citizens
+    text: Control citizens (non-military units)
+    hasHeader: true
+    category: [Citizens]
+    children:
+    - display: GroupBox
+      header: Control spawning
+      text: Control spawning of potentially annoying units
+      children:
+        - url: citizens.spawn.disable.child
+          text: Disable spawning of children
+          hasHeader: false
+          display: Switch
+          contents:
+            type: boolean
+            value: false
+        - url: citizens.spawn.disable.mother
+          text: Disable spawning of mothers
+          hasHeader: false
+          display: Switch
+          contents:
+            type: boolean
+            value: false
+        - url: citizens.spawn.disable.drunk
+          text: Disable spawning of drunk people
+          hasHeader: false
+          display: Switch
+          contents:
+            type: boolean
+            value: false
+        - url: citizens.spawn.disable.chicken
+          text: Disable spawning of chickens
+          hasHeader: false
+          display: Switch
+          contents:
+            type: boolean
+            value: false
