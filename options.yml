@@ -39,3 +39,10 @@ options:
           contents:
             type: boolean
             value: false
+        - url: citizens.spawn.disable.jester
+          text: Disable spawning of the jester
+          hasHeader: false
+          display: Switch
+          contents:
+            type: boolean
+            value: false
