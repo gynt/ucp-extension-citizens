@@ -1,0 +1,10 @@
+ui.citizens: Citizens
+ui.control-citizens-non-military-units: Control citizens (non-military units)
+ui.control-spawning: Control spawning
+ui.control-spawning-of-potentially-annoying-units: Control spawning of potentially annoying units
+ui.disable-spawning-of-children: Disable spawning of children
+ui.disable-spawning-of-mothers: Disable spawning of mothers
+ui.disable-spawning-of-drunk-people: Disable spawning of drunk people
+ui.disable-spawning-of-chickens: Disable spawning of chickens
+ui.disable-spawning-of-the-jester: Disable spawning of the jester
+tags.behavior: Behavior

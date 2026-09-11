@@ -2,45 +2,45 @@ meta:
   version: 1.0.0
 options:
   - display: GroupBox
-    header: Citizens
-    text: Control citizens (non-military units)
+    header: '{{ui.citizens}}'
+    text: '{{ui.control-citizens-non-military-units}}'
     hasHeader: true
-    category: [Citizens]
+    category: ['{{ui.citizens}}']
     children:
     - display: GroupBox
-      header: Control spawning
-      text: Control spawning of potentially annoying units
+      header: '{{ui.control-spawning}}'
+      text: '{{ui.control-spawning-of-potentially-annoying-units}}'
       children:
         - url: citizens.spawn.disable.child
-          text: Disable spawning of children
+          text: '{{ui.disable-spawning-of-children}}'
           hasHeader: false
           display: Switch
           contents:
             type: boolean
             value: false
         - url: citizens.spawn.disable.mother
-          text: Disable spawning of mothers
+          text: '{{ui.disable-spawning-of-mothers}}'
           hasHeader: false
           display: Switch
           contents:
             type: boolean
             value: false
         - url: citizens.spawn.disable.drunk
-          text: Disable spawning of drunk people
+          text: '{{ui.disable-spawning-of-drunk-people}}'
           hasHeader: false
           display: Switch
           contents:
             type: boolean
             value: false
         - url: citizens.spawn.disable.chicken
-          text: Disable spawning of chickens
+          text: '{{ui.disable-spawning-of-chickens}}'
           hasHeader: false
           display: Switch
           contents:
             type: boolean
             value: false
         - url: citizens.spawn.disable.jester
-          text: Disable spawning of the jester
+          text: '{{ui.disable-spawning-of-the-jester}}'
           hasHeader: false
           display: Switch
           contents:

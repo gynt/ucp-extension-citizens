@@ -1,0 +1,10 @@
+ui.citizens: Жители
+ui.control-citizens-non-military-units: Управление жителями (невоенными юнитами)
+ui.control-spawning: Управление появлением
+ui.control-spawning-of-potentially-annoying-units: Управление появлением потенциально мешающих жителей
+ui.disable-spawning-of-children: Отключить появление детей
+ui.disable-spawning-of-mothers: Отключить появление матерей
+ui.disable-spawning-of-drunk-people: Отключить появление пьяниц
+ui.disable-spawning-of-chickens: Отключить появление кур
+ui.disable-spawning-of-the-jester: Отключить появление шута
+tags.behavior: Поведение

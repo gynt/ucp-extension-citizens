@@ -1,0 +1,10 @@
+ui.citizens: Bewohner
+ui.control-citizens-non-military-units: Bewohner steuern (nichtmilitärische Einheiten)
+ui.control-spawning: Erscheinen steuern
+ui.control-spawning-of-potentially-annoying-units: Das Erscheinen möglicherweise störender Einheiten steuern
+ui.disable-spawning-of-children: Keine Kinder erscheinen lassen
+ui.disable-spawning-of-mothers: Keine Mütter erscheinen lassen
+ui.disable-spawning-of-drunk-people: Keine Betrunkenen erscheinen lassen
+ui.disable-spawning-of-chickens: Keine Hühner erscheinen lassen
+ui.disable-spawning-of-the-jester: Keinen Hofnarren erscheinen lassen
+tags.behavior: Verhalten

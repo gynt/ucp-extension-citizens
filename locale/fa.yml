@@ -1,0 +1,10 @@
+ui.citizens: شهروندان
+ui.control-citizens-non-military-units: کنترل شهروندان (واحدهای غیرنظامی)
+ui.control-spawning: کنترل پیدایش
+ui.control-spawning-of-potentially-annoying-units: کنترل پیدایش واحدهایی که ممکن است مزاحم باشند
+ui.disable-spawning-of-children: جلوگیری از پیدایش کودکان
+ui.disable-spawning-of-mothers: جلوگیری از پیدایش مادران
+ui.disable-spawning-of-drunk-people: جلوگیری از پیدایش افراد مست
+ui.disable-spawning-of-chickens: جلوگیری از پیدایش مرغ‌ها
+ui.disable-spawning-of-the-jester: جلوگیری از پیدایش دلقک
+tags.behavior: رفتار

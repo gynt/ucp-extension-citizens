@@ -1,0 +1,10 @@
+ui.citizens: Halk
+ui.control-citizens-non-military-units: Halkı kontrol et (asker olmayan birimler)
+ui.control-spawning: Ortaya çıkmayı kontrol et
+ui.control-spawning-of-potentially-annoying-units: Rahatsız edebilecek birimlerin ortaya çıkmasını kontrol et
+ui.disable-spawning-of-children: Çocukların ortaya çıkmasını engelle
+ui.disable-spawning-of-mothers: Annelerin ortaya çıkmasını engelle
+ui.disable-spawning-of-drunk-people: Sarhoşların ortaya çıkmasını engelle
+ui.disable-spawning-of-chickens: Tavukların ortaya çıkmasını engelle
+ui.disable-spawning-of-the-jester: Soytarının ortaya çıkmasını engelle
+tags.behavior: Davranış

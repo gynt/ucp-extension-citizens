@@ -1,5 +1,5 @@
 name: citizens
-version: 1.0.1
+version: 1.0.2
 author: gynt
 type: module
 display-name: Citizens
@@ -8,3 +8,5 @@ dependencies:
   frontend: ">= 1.0.10"
 meta:
   version: 1.0.0
+tags:
+- behavior

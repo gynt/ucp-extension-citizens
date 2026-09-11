@@ -1,0 +1,10 @@
+ui.citizens: 居民
+ui.control-citizens-non-military-units: 控制居民（非军事单位）
+ui.control-spawning: 控制生成
+ui.control-spawning-of-potentially-annoying-units: 控制可能造成干扰的单位生成
+ui.disable-spawning-of-children: 禁止生成儿童
+ui.disable-spawning-of-mothers: 禁止生成母亲
+ui.disable-spawning-of-drunk-people: 禁止生成醉汉
+ui.disable-spawning-of-chickens: 禁止生成鸡
+ui.disable-spawning-of-the-jester: 禁止生成弄臣
+tags.behavior: 行为

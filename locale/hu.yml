@@ -1,0 +1,10 @@
+ui.citizens: Lakosok
+ui.control-citizens-non-military-units: Lakosok irányítása (nem katonai egységek)
+ui.control-spawning: Megjelenés szabályozása
+ui.control-spawning-of-potentially-annoying-units: A zavaró egységek megjelenésének szabályozása
+ui.disable-spawning-of-children: Gyerekek megjelenésének tiltása
+ui.disable-spawning-of-mothers: Anyák megjelenésének tiltása
+ui.disable-spawning-of-drunk-people: Részegek megjelenésének tiltása
+ui.disable-spawning-of-chickens: Tyúkok megjelenésének tiltása
+ui.disable-spawning-of-the-jester: Az udvari bolond megjelenésének tiltása
+tags.behavior: Viselkedés
